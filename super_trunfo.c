@@ -19,7 +19,7 @@ int main(){
     // Declaração de variáveis
 
     char card01_estado; //  Uma letra de 'A' a 'H' (representando um dos oito estados)
-    char card01_cod_carta[4];// A letra do estado seguida de um número de 01 a 04 (ex: A01, B03)
+    char card01_cod_carta[3];// A letra do estado seguida de um número de 01 a 04 (ex: A01, B03)
     char card01_cidade[20];// O nome da cidade
     int card01_populacao; // O número de habitantes da cidade
     float card01_area; //  A área da cidade em quilômetros quadrados
