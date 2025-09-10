@@ -14,6 +14,9 @@ Resultado de comparações de cartas.
 09/09/2025
 Complementação do código anterior para permitir a seleção do atributo para competir no jogo.
 
+10/09/2025
+Complementação do código com a opção de escolha de 2 atributos.
+
 
 [Curso Ciência da Computação]
 
@@ -265,7 +268,6 @@ scanf("%d",&seleçao);
 /*
 10/09/25
 Seleção de 2 atributos para comparação
-
 */
 //Seleção de 2 atributos para jogar
 
@@ -469,4 +471,5 @@ case 1:
   }else{printf("Ocorreu um empate!!!");}
 
  return 0;
+
 }
